@@ -1,0 +1,149 @@
+* { 
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'arial', sans-serif;
+  
+}
+
+*body {
+  background-color: #a2a7a1;
+  color: #0e0505;
+  font-family: 'Segoe UI', sans-serif;
+  border: 20px solid yellow;
+}
+
+.header{
+    background-color: #40683f;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 40px;
+    color: white;
+}
+
+.header p{
+    font-size: small;
+    text-align: center;
+}
+.header span{
+    color: #19381f;
+    font-size: 20;
+
+}
+
+h1{
+    text-align: center;
+}
+
+.header nav ul {
+  list-style: none;
+  display: flex;
+  gap: 30px; 
+}
+
+.header nav li a{
+    text-decoration: none;
+    list-style: none;
+    color: white;
+}
+
+.gen_container{
+    background-color: #E1E9C9;
+}
+
+.awareness_container{
+    display: flex;
+    margin-top: 20px; 
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.awareness_container_1{
+    display: flex;
+    flex-direction: column;
+   
+}
+
+.awareness_container_1 h2{
+    font-size: 18px;
+    text-align: center;
+    line-height: 1.5;
+    
+}
+
+.awareness_container_1 span {
+color: #253900
+}
+
+.awareness_container_1 ul li {
+    font-size: px;
+}
+
+
+.awareness_container_2 img{
+  border-radius: 10px;
+  padding: 20px;
+  width: 600px;
+  height: 
+  
+}
+
+.alternatives{
+    display: flex;
+}
+
+.recruitment_container{
+  padding: 10px;
+  background-color: #08CB00;
+  line-height: 1.8;
+}
+
+.recruitment_container > div{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.recruitment_container p{
+    color: white;
+}
+
+
+
+form fieldset {
+   display: flex;
+   flex-direction: column;
+  justify-content: right;
+  font-size: 20px;
+  padding: 10px;
+  background-color: white;
+}
+
+form legend{
+    text-align: center;
+    padding: 10px;
+    width: 400px;
+}
+
+.submit_button{
+    display: flex;
+    gap: 30px;
+}
+
+.submit_button button{
+    background-color:#08CB00;
+    padding: 8px;
+    border-radius: 15px;
+}
+
+
+
+
+footer{
+    text-align: center;
+    font-size: 18px;
+    background-color: #08CB00;
+    margin-top: 20px 20px;
+}
+
