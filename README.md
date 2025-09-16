@@ -68,7 +68,7 @@ Join Us Section
 ![Say No to Drugs Header Section](https://github.com/user-attachments/assets/6a91817f-b22f-49ba-93af-c21ba5716758)
 
 
-![Say No to Drugs Awareness Section]("https://github.com/user-attachments/assets/1c96b92c-9dde-4cf0-a481-c52be62150d1")
+![Say No to Drugs Awareness Section](https://github.com/user-attachments/assets/1c96b92c-9dde-4cf0-a481-c52be62150d1)
 
 ![Say No to Healthy Alternatives Section](https://github.com/user-attachments/assets/bfd6c711-5b29-4ed3-8b0a-b592e5d65b5b)
 
