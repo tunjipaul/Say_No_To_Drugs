@@ -47,6 +47,10 @@
     list-style: none;
     color: white;
 }
+.header a:hover{
+    color: #bddf59;
+    text-decoration: underline;
+}
 
 .gen_container{
     background-color: #E1E9C9;
@@ -64,6 +68,11 @@
     flex-direction: column;
     padding: 20px;
    
+}
+.awareness_container_1:hover{
+    background-color:  #bddf59;
+    border-radius: 15px;
+    background-image: url("/Say_No_To_Drug_Abuse/Images/A_bold_reminder_from_Klafi_Studio_for_June_26___-removebg-preview.png");
 }
 
 .awareness_container_1 h2{
@@ -92,22 +101,38 @@ color: #253900
   /* height:  */
   
 }
+.awareness_container_2 img:hover{
+    background-color: #68a774;
+    border: 0px ;
+}
 
 
  .alternatives_container{
     display: flex;
-    flex-direction: column;
     gap: 15px;
-    border: 1px solid red;
     line-height: 15px;
     margin-bottom: 40px;
     margin-left: 50px;
     padding-top: 15px;
+    justify-content: center;
 
 }
 .alternatives_content_1{
-
+ display: flex;
+ flex-direction: column;
 }
+/* .alternatives_content_2 , .alternatives_content_3 img{
+    height: 10px;
+} */
+.alter_{
+ height: 380px;
+ border-radius: 15px;
+ 
+}
+/* .alternatives_container figure:hover{
+    background-color: #8dffa4;
+} */
+
 .testimony_container{
  display: flex;
  gap: 85px;
@@ -144,7 +169,6 @@ color: #253900
     justify-content: center;
     gap: 50px;
     padding: 20px;
-    border: 1px solid red;
 }
 
 .recruitment_container p{
@@ -187,6 +211,9 @@ form fieldset input::placeholder{
 form fieldset input:hover{
     background-color: #8dffa4;
 }
+#message{
+    height: 150px;
+}
 
 form legend{
     text-align: left;
@@ -203,10 +230,21 @@ form legend{
     background-color:#08CB00;
     padding: 8px;
     border-radius: 15px;
+    border: 2px solid rgb(103, 119, 79);
+}
+#send:hover{
+    background-color: #c0ccc2;
+    border: 2px solid goldenrod;
 }
 
+ #reset{
+    background-color: #c0ccc2;
+}
 
-
+#reset:hover{
+    background-color: #08CB00;
+    border: 2px solid goldenrod;
+}
 
 footer{
     text-align: center;
