@@ -121,9 +121,7 @@ color: #253900
  display: flex;
  flex-direction: column;
 }
-/* .alternatives_content_2 , .alternatives_content_3 img{
-    height: 10px;
-} */
+
 .alter_{
  height: 380px;
  border-radius: 15px;
@@ -132,6 +130,10 @@ color: #253900
 /* .alternatives_container figure:hover{
     background-color: #8dffa4;
 } */
+ .alternatives_content_1:hover{
+    background-color: #bddf59;
+    border-radius: 15px;
+ }
 
 .testimony_container{
  display: flex;
